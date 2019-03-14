@@ -1,1 +1,1 @@
-# fct-nova-high-performance-computing-labs
+# FCT NOVA - High Performance Computing Labs
