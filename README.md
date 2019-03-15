@@ -19,7 +19,7 @@
 [![keyword of this version no. 3](https://img.shields.io/badge/keyword-cuda-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
 [![keyword of this version no. 4](https://img.shields.io/badge/keyword-gpu-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
 
-[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-java-red.svg)](http://www.cplusplus.com/) 
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
 [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-cuda-red.svg)](https://developer.nvidia.com/cuda-zone) 
 [![software used no. 1](https://img.shields.io/badge/software-jetbrains&nbsp;clion-gold.svg)](https://www.jetbrains.com/clion/)
 
