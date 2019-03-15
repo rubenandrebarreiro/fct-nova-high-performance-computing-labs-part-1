@@ -6,7 +6,7 @@
 ***
 
 ## Current Status
-[![contributor for this repository](https://img.shields.io/badge/contributor-herve&nbsp;miguel&nbsp;paulino-blue.svg)](http://asc.di.fct.unl.pt/~hj/) [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
+[![contributor for this repository](https://img.shields.io/badge/contributor-herve&nbsp;miguel&nbsp;paulino-blue.svg)](https://docentes.fct.unl.pt/p161/) [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
 [![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
 
 [![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
