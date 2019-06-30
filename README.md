@@ -1,36 +1,36 @@
-# FCT NOVA - High Performance Computing Labs
+# FCT NOVA - High Performance Computing Labs - Part 1
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/master/imgs/JPGs/banner-1.jpg)
-######  High Performance Computing Labs (FCT NOVA) - Banner #1
+![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/master/imgs/JPGs/banner-1.jpg)
+######  High Performance Computing Labs - Part 1 (FCT NOVA) - Banner #1
 
 ***
 
 ## Current Status
 [![contributor for this repository](https://img.shields.io/badge/contributor-herve&nbsp;miguel&nbsp;paulino-blue.svg)](https://docentes.fct.unl.pt/p161/) [![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/) [![developed in](https://img.shields.io/badge/developed&nbsp;in-fct&nbsp;nova-blue.svg)](https://www.fct.unl.pt/)
-[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
+[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
 
-[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
-[![status of this version no. 2](https://img.shields.io/badge/status-not&nbsp;final-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
-[![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
-[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
+[![status of this version no. 1](https://img.shields.io/badge/status-not&nbsp;completed-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
+[![status of this version no. 2](https://img.shields.io/badge/status-not&nbsp;final-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
+[![status of this version no. 3](https://img.shields.io/badge/status-not&nbsp;stable-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
+[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
 
-[![keyword of this version no. 1](https://img.shields.io/badge/keyword-high&nbsp;performance&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
-[![keyword of this version no. 2](https://img.shields.io/badge/keyword-systems-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-cuda-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-gpu-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/)
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-high&nbsp;performance&nbsp;computing-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-systems-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-cuda-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-gpu-brown.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
 [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-cuda-red.svg)](https://developer.nvidia.com/cuda-zone) 
 [![software used no. 1](https://img.shields.io/badge/software-jetbrains&nbsp;clion-gold.svg)](https://www.jetbrains.com/clion/)
 
-[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=fct-nova-high-performance-computing-labs&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/stargazers)
-[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=fct-nova-high-performance-computing-labs&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/fork)
-[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/fct-nova-high-performance-computing-labs/total.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/archive/master.zip)
-[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/archive/master.zip)
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=fct-nova-high-performance-computing-labs-part-1&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/stargazers)
+[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=fct-nova-high-performance-computing-labs-part-1&style=flat)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/fork)
+[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/total.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/archive/master.zip)
 
 ##### Current Progress of the Project
 
-[![current progress of this project](http://progressed.io/bar/20?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/) 
+[![current progress of this project](http://progressed.io/bar/20?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/) 
 
 
 ## Description
@@ -39,13 +39,13 @@
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/master/imgs/screenshot-1.jpg)
-######  High Performance Computing Labs (FCT NOVA) - Screenshot #1
+![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/master/imgs/screenshot-1.jpg)
+######  High Performance Computing Labs - Part 1 (FCT NOVA) - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/master/imgs/screenshot-2.jpg)
-######  High Performance Computing Labs (FCT NOVA) - Screenshot #2
+![https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/master/imgs/screenshot-2.jpg)
+######  High Performance Computing Labs - Part 1 (FCT NOVA) - Screenshot #2
 
 ***
 
@@ -59,7 +59,7 @@ To install and run this application, you will need:
 ### Installation
 To install this application, you will need to _download_ or _clone_ this repository and run the application locally:
 
-> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs/archive/master.zip) in download section of this repository.
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/archive/master.zip) in download section of this repository.
 
 > Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
