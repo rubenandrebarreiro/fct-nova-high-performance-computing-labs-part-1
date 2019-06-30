@@ -30,7 +30,7 @@
 
 ##### Current Progress of the Project
 
-[![current progress of this project](http://progressed.io/bar/20?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/) 
+[![current progress of this project](http://progressed.io/bar/80?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/fct-nova-high-performance-computing-labs-part-1/) 
 
 
 ## Description
